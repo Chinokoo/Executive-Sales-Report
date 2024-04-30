@@ -7,7 +7,7 @@ Which country/region is the company seeing the most success in?
 Which product category and reseller business types should the company continue to invest in?
 
 
-Before you open the Executive Finance Sales Report, you need to download Power BI Desktop.
+Before you open the Executive Sales Report.pibx, you need to download Power BI Desktop.
 
 
 1. We got our data from the Adventure excel sample sheet that is also found in this folder.
